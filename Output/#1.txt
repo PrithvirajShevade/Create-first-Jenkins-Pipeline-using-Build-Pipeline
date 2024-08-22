@@ -1,0 +1,10 @@
+Started by upstream project "project1-build" build number 1
+originally caused by:
+ Started by user Prithviraj shevade
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/project1-test-deploy
+[project1-test-deploy] $ /bin/sh -xe /tmp/jenkins12676805502901924697.sh
++ sleep 10
++ echo Deploying to test environment
+Deploying to test environment
+Finished: SUCCESS

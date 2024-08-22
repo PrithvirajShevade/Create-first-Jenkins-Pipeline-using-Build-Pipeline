@@ -1,0 +1,9 @@
+Started by user Prithviraj shevade
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/project1-build
+[project1-build] $ /bin/sh -xe /tmp/jenkins13248498962871976817.sh
++ sleep 10
++ echo Project is Building
+Project is Building
+Triggering a new build of project1-test-deploy
+Finished: SUCCESS
